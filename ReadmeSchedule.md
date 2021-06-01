@@ -3,6 +3,6 @@ My name is Basel, I graduated with a bachelor's degree in Mechatronics Engineeri
 
 |labs | links |
 |:---:  |:--: |
-| Growth| [link]() | 
-| Git| [link](  ) |
+| Growth| [link](https://replit.com/@Bassell/Reading-Notes102d34#LAB01.md) | 
+| Git| [link](https://replit.com/@Bassell/Reading-Notes102d34#ReadmeSchedule.md) |
 
