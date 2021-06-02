@@ -6,8 +6,11 @@
 * The tutorials in this section included information on a variety of CSS topics including creating stylesheets, associating styles with specific HTML elements, setting background & text color, styling lists, setting the width & height of elements, media types, and more.
 
 ### three ways to insert CSS:
+
 **External CSS**
+
 **Internal CSS**
+
 **Inline CSS**
 
 External CSS: Each HTML page must include a reference to the external style sheet file inside the <link> element, inside the head section.
