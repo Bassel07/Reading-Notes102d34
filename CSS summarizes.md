@@ -15,7 +15,7 @@
 
 External CSS: Each HTML page must include a reference to the external style sheet file inside the <link> element, inside the head section.
 
-Example : <link rel="stylesheet" href="mystyle.css"> 
+Example : <link rel="stylesheet" href="mystyle.css> 
 
 Internal CSS: The internal style is defined inside the <style> element, inside the head section.
   
