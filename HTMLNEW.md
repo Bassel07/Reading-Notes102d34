@@ -29,3 +29,10 @@ This states where the element begins or starts to take effect — in this case w
 Elements can also have attributes that look like the following:
 
 ![img](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics/grumpy-cat-attribute-small.png)
+
+# Website wireframe
+## A wireframe is a layout of a web page that demonstrates what interface elements will exist on key pages. It is a critical part of the interaction design process.
+Ex:
+![img](https://upload.wikimedia.org/wikipedia/commons/4/47/Profilewireframe.png)
+
+
