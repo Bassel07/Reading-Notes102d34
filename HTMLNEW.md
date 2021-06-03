@@ -12,7 +12,6 @@ HTML is a markup language that defines the structure of your content. HTML consi
 
 If we wanted the line to stand by itself, we could specify that it is a paragraph by enclosing it in paragraph tags:
 
-## <p>My cat is very grumpy</p>
 
 ![img](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics/grumpy-cat-small.png)
 
