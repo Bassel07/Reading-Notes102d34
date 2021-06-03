@@ -32,7 +32,7 @@ Elements can also have attributes that look like the following:
 
 # Website wireframe
 ## A wireframe is a layout of a web page that demonstrates what interface elements will exist on key pages. It is a critical part of the interaction design process.
-Ex:
+
 ![img](https://upload.wikimedia.org/wikipedia/commons/4/47/Profilewireframe.png)
 
 
