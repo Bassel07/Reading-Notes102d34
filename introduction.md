@@ -9,5 +9,5 @@
 | HTMLNEW   |  [Read02](https://bassel07.github.io/Reading-Notes102d34/HTMLNEW)   |
 | CSS Summary   |  [Read03](https://bassel07.github.io/Reading-Notes102d34/CSS%20summarizes)   |
 | Git & Replit Summary   |  [Read04](https://bassel07.github.io/Reading-Notes102d34/Git&Replit-Summary)   |
-| JavaScript Summary  |  [Read04](https://bassel07.github.io/Reading-Notes102d34/JavaScript)   |
-| Introduction   |  [Read05](https://bassel07.github.io/Reading-Notes102d34/introduction)   |
+| JavaScript Summary  |  [Read05](https://bassel07.github.io/Reading-Notes102d34/JavaScript)   |
+| Introduction   |  [Read06](https://bassel07.github.io/Reading-Notes102d34/introduction)   |
