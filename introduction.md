@@ -11,6 +11,7 @@
 | Git & Replit Summary   |  [Read04](https://bassel07.github.io/Reading-Notes102d34/Git&Replit-Summary)   |
 | JavaScript Summary  |  [Read05](https://bassel07.github.io/Reading-Notes102d34/JavaScript)   |
 | Expressions & Operators & Functions Summary  |  [Read06](https://bassel07.github.io/Reading-Notes102d34/Exp&Op&Fun)
-| Introduction   |  [Read07](https://bassel07.github.io/Reading-Notes102d34/introduction)   |
+| Loops & Expressions Summary  |  [Read07](https://bassel07.github.io/Reading-Notes102d34/Loops)
+| Introduction   |  [Read08](https://bassel07.github.io/Reading-Notes102d34/introduction)   |
 
 
